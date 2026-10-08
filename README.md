@@ -22,6 +22,10 @@ Herramienta de línea de comandos (CLI) ligera para Linux que convierte imágene
 
 ---
 
+le agradezco a Jose Molina por la idea y poder hacer esto para linux. :D
+
+---
+
 ## Instalación
 
 ### Método 1: Instalación rápida (Recomendado)
