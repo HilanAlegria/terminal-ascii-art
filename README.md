@@ -22,7 +22,13 @@ Herramienta de línea de comandos (CLI) ligera para Linux que convierte imágene
 
 ---
 
-le agradezco a Jose Molina por la idea y poder hacer esto para linux. :D
+##Capturas de como se ve
+
+<img width="1920" height="1036" alt="Screenshot_20261008_113000" src="https://github.com/user-attachments/assets/005049ad-674e-48d3-9dbb-0c6a566c0f3a" />
+<img width="1920" height="1036" alt="Screenshot_20261008_112942" src="https://github.com/user-attachments/assets/c46c50c6-5c28-4d6c-a014-70a70003e0e1" />
+<img width="1920" height="1036" alt="Screenshot_20261008_113035" src="https://github.com/user-attachments/assets/c9de4c3e-f7cd-4194-9abf-95c9a1c7248b" />
+<img width="1920" height="1036" alt="Screenshot_20261008_113025" src="https://github.com/user-attachments/assets/20b006e5-9196-4071-a1e6-9ffe9d2a5f9b" />
+<img width="1920" height="1036" alt="Screenshot_20261008_113012" src="https://github.com/user-attachments/assets/d043f264-e17e-4ea1-8259-5a9511d580b6" />
 
 ---
 
